@@ -1,0 +1,32 @@
+body {
+	background-color: #c8e6c9; 
+}
+
+h1 {
+	text-align: center; 
+}
+
+#quote_box {
+	height: 300px;
+	width: 500px;
+	background-color: white; 
+	margin: 0 auto;
+	padding-top: 13px;
+	padding-bottom: 16px;
+}
+
+#quotes {
+	margin: 10% auto;
+	height: 200px;
+	width: 350px; 
+	background-color: #2f4f4f; 
+	float;
+}
+
+button {
+	float: right;
+}
+
+#tweet {
+	border: 5px solid red;
+}
