@@ -3,14 +3,18 @@ var quotes = [
 	"No Stairway. Denied!- Wayne Campbell", 
 	"If you're going to spew, spew into this- Garth Algar", 
 	"Schwing! - Wayne Campbell", 
-	"It's like a new pair of underwear, at first they're really restricive but then after a while they become a part of you - Garth Algar"]; 
+	"It's like a new pair of underwear, at first they're really restricive but then after a while they become a part of you - Garth Algar", 
+	"Garth, marriage is punishment for shoplifting in some countries- Wayne Campbell", 
+	"Hey Mr. Donut man, who's trying to kill ya? I don't know but they better not! - Garth Algar", 
+	"I'm having a good time... NOT! - Garth Algar"
+	]; 
 
 
 var h3 = document.querySelector("h3"); 
 var button = document.querySelector("button"); 
 
 function randomInt() { 
-	var max = 5;
+	var max = quotes.length;
 	var min = 1;
 	return Math.floor(Math.random() * (max - min +1)) + min;
 }
