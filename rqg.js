@@ -1,4 +1,10 @@
-var quotes = ["quote 1", "quote 2", "quote 3", "quote 4", "quote 5"]; 
+var quotes = [
+	"I once thought I had mono for an entire year. It turned out I was just really bored. -Wayne Campbell", 
+	"No Stairway. Denied!- Wayne Campbell", 
+	"If you're going to spew, spew into this- Garth Algar", 
+	"Schwing! - Wayne Campbell", 
+	"It's like a new pair of underwear, at first they're really restricive but then after a while they become a part of you - Garth Algar"]; 
+
 
 var h3 = document.querySelector("h3"); 
 var button = document.querySelector("button"); 

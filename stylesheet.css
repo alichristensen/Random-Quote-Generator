@@ -4,6 +4,7 @@ body {
 
 h1 {
 	text-align: center; 
+	font-family: 'Raleway', sans-serif;
 }
 
 #quote_box {
@@ -21,12 +22,25 @@ h1 {
 	width: 350px; 
 	background-color: #2f4f4f; 
 	float;
+	color: white;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
 }
 
-button {
+#qbutt {
 	float: right;
 }
 
-#tweet {
-	border: 5px solid red;
+#tbutt {
+	float: left;
+}
+
+img {
+	width: 500px;
+	height: 290px;
+}
+
+#bar {
+	background-color: #2f4f4f;
+	height: 30px;
 }
