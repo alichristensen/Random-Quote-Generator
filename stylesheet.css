@@ -29,7 +29,7 @@ h1 {
 
 #qbutt {
 	float: right;
-	margin-top: 4px;
+	margin-top: 9px;
 	margin-right: 4px;
 }
 
@@ -46,5 +46,5 @@ img {
 
 #bar {
 	background-color: #2f4f4f;
-	height: 30px;
+	height: 40px;
 }
