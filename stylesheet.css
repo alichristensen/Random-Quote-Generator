@@ -29,10 +29,14 @@ h1 {
 
 #qbutt {
 	float: right;
+	margin-top: 4px;
+	margin-right: 4px;
 }
 
 #tbutt {
 	float: left;
+	margin-top: 4px;
+	margin-left: 4px;
 }
 
 img {
